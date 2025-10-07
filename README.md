@@ -29,7 +29,7 @@
 1. **Задание 1:** [ТЫК](https://github.com/shinsetsuwhy/allproject.git)
 2. **Задание 2:** [ТЫК](https://github.com/shinsetsuwhy/allproject-1.git)
 3. **Задание 3:** [ТЫК](https://github.com/shinsetsuwhy/allproject-2.git)
-4. **Задание 4:** [ТЫК]()
+4. **Задание 4:** [ТЫК](https://github.com/shinsetsuwhy/allproject-3.git)
 5. **Задание 5:** [ТЫК](https://github.com/shinsetsuwhy/allproject-4.git)
 6. **Задание 6:** [ТЫК](https://github.com/shinsetsuwhy/allproject-5.git)
 
