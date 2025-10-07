@@ -31,7 +31,7 @@
 3. **Задание 3:** [ТЫК](https://github.com/shinsetsuwhy/allproject-2.git)
 4. **Задание 4:** [ТЫК]()
 5. **Задание 5:** [ТЫК](https://github.com/shinsetsuwhy/allproject-4.git)
-6. **Задание 6:** [ТЫК]()
+6. **Задание 6:** [ТЫК](https://github.com/shinsetsuwhy/allproject-5.git)
 
 ## ✅ Статус выполнения
 - [✅] Задание 1 - Готово
